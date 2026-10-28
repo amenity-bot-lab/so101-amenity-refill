@@ -1,0 +1,91 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 860 500' width='860' height='500' font-family='Noto Sans CJK JP, Hiragino Sans, Meiryo, Yu Gothic, sans-serif'>
+<rect width='860' height='500' fill='white'/>
+<text x='70' y='36' font-size='20' font-weight='700' fill='#1f2937'>机全体の配置（真上から・単位 cm）</text>
+<text x='430' y='36' font-size='12' fill='#6b7280'>机 140×60cm。手前（図の下）に自分が座る。</text>
+<rect x='70' y='70' width='700' height='300' fill='#fafafa' stroke='#1f2937' stroke-width='2'/>
+<line x1='70' y1='70' x2='70' y2='370' stroke='#e5e7eb'/>
+<text x='70' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>0</text>
+<line x1='120' y1='70' x2='120' y2='370' stroke='#e5e7eb'/>
+<text x='120' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>10</text>
+<line x1='170' y1='70' x2='170' y2='370' stroke='#e5e7eb'/>
+<text x='170' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>20</text>
+<line x1='220' y1='70' x2='220' y2='370' stroke='#e5e7eb'/>
+<text x='220' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>30</text>
+<line x1='270' y1='70' x2='270' y2='370' stroke='#e5e7eb'/>
+<text x='270' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>40</text>
+<line x1='320' y1='70' x2='320' y2='370' stroke='#e5e7eb'/>
+<text x='320' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>50</text>
+<line x1='370' y1='70' x2='370' y2='370' stroke='#e5e7eb'/>
+<text x='370' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>60</text>
+<line x1='420' y1='70' x2='420' y2='370' stroke='#e5e7eb'/>
+<text x='420' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>70</text>
+<line x1='470' y1='70' x2='470' y2='370' stroke='#e5e7eb'/>
+<text x='470' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>80</text>
+<line x1='520' y1='70' x2='520' y2='370' stroke='#e5e7eb'/>
+<text x='520' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>90</text>
+<line x1='570' y1='70' x2='570' y2='370' stroke='#e5e7eb'/>
+<text x='570' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>100</text>
+<line x1='620' y1='70' x2='620' y2='370' stroke='#e5e7eb'/>
+<text x='620' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>110</text>
+<line x1='670' y1='70' x2='670' y2='370' stroke='#e5e7eb'/>
+<text x='670' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>120</text>
+<line x1='720' y1='70' x2='720' y2='370' stroke='#e5e7eb'/>
+<text x='720' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>130</text>
+<line x1='770' y1='70' x2='770' y2='370' stroke='#e5e7eb'/>
+<text x='770' y='384' font-size='10' fill='#6b7280' text-anchor='middle'>140</text>
+<line x1='70' y1='70' x2='770' y2='70' stroke='#e5e7eb'/>
+<text x='64' y='74' font-size='10' fill='#6b7280' text-anchor='end'>0</text>
+<line x1='70' y1='120' x2='770' y2='120' stroke='#e5e7eb'/>
+<text x='64' y='124' font-size='10' fill='#6b7280' text-anchor='end'>10</text>
+<line x1='70' y1='170' x2='770' y2='170' stroke='#e5e7eb'/>
+<text x='64' y='174' font-size='10' fill='#6b7280' text-anchor='end'>20</text>
+<line x1='70' y1='220' x2='770' y2='220' stroke='#e5e7eb'/>
+<text x='64' y='224' font-size='10' fill='#6b7280' text-anchor='end'>30</text>
+<line x1='70' y1='270' x2='770' y2='270' stroke='#e5e7eb'/>
+<text x='64' y='274' font-size='10' fill='#6b7280' text-anchor='end'>40</text>
+<line x1='70' y1='320' x2='770' y2='320' stroke='#e5e7eb'/>
+<text x='64' y='324' font-size='10' fill='#6b7280' text-anchor='end'>50</text>
+<line x1='70' y1='370' x2='770' y2='370' stroke='#e5e7eb'/>
+<text x='64' y='374' font-size='10' fill='#6b7280' text-anchor='end'>60</text>
+<text x='420.0' y='62' font-size='11' fill='#6b7280' text-anchor='middle'>奥（壁側）</text>
+<text x='420.0' y='400' font-size='11' fill='#6b7280' text-anchor='middle'>手前（自分が座る側）</text>
+<rect x='70' y='95' width='400' height='275' fill='none' stroke='#d97706' stroke-width='1.5' stroke-dasharray='6 5'/>
+<text x='77.5' y='111.0' font-size='11' fill='#d97706'>腕の可動域：ここにPCやコップを置かない</text>
+<rect x='95' y='120' width='350' height='250' fill='#eef2ff' stroke='#1f2937' stroke-width='1.5'/>
+<text x='270' y='137.5' font-size='12' fill='#1f2937' text-anchor='middle' font-weight='700'>フォロワー作業エリア 70×50cm（平面図の範囲）</text>
+<rect x='170' y='225' width='63.5' height='43.5' fill='#fff7ed' stroke='#1f2937'/>
+<text x='201.5' y='285' font-size='10' fill='#1f2937' text-anchor='middle'>補充元</text>
+<rect x='275' y='175' width='100' height='120' fill='#e5e7eb' stroke='#1f2937'/>
+<rect x='277.5' y='180' width='30' height='110' fill='#374151' stroke='#1f2937' stroke-width='0.8'/>
+<text x='292.5' y='282.5' font-size='10' fill='white' text-anchor='middle'>A</text>
+<rect x='310.0' y='180' width='30' height='110' fill='#374151' stroke='#1f2937' stroke-width='0.8'/>
+<text x='325.0' y='282.5' font-size='10' fill='white' text-anchor='middle'>B</text>
+<rect x='342.5' y='180' width='30' height='110' fill='#374151' stroke='#1f2937' stroke-width='0.8'/>
+<text x='357.5' y='282.5' font-size='10' fill='white' text-anchor='middle'>C</text>
+<text x='382.5' y='230' font-size='10' fill='#1f2937'>客室トレイ</text>
+<text x='382.5' y='245' font-size='9' fill='#6b7280'>（カトラリー</text>
+<text x='382.5' y='258.0' font-size='9' fill='#6b7280'>トレー）</text>
+<rect x='240' y='310' width='60' height='60' fill='#d1d5db' stroke='#1f2937' stroke-width='1.5'/>
+<text x='270' y='345' font-size='10' fill='#1f2937' text-anchor='middle' font-weight='700'>フォロワー</text>
+<text x='270' y='362.5' font-size='9' fill='#6b7280' text-anchor='middle'>手前の縁にクランプ</text>
+<circle cx='270' cy='250' r='7' fill='none' stroke='#2563eb' stroke-width='2'/><circle cx='270' cy='250' r='2' fill='#2563eb'/>
+<rect x='262' y='66' width='16' height='10' fill='#2563eb'/>
+<line x1='270' y1='76' x2='270' y2='243' stroke='#2563eb' stroke-width='3'/>
+<text x='105' y='170' font-size='11' fill='#2563eb'>カメラアーム（奥の縁にクランプ、高さ50cm）</text>
+<text x='105' y='187.5' font-size='10' fill='#2563eb'>レンズはトレイ2つの中間の真上</text>
+<circle cx='85' cy='85' r='8' fill='#fde68a' stroke='#d97706'/>
+<circle cx='460' cy='85' r='8' fill='#fde68a' stroke='#d97706'/>
+<text x='100' y='92.5' font-size='10' fill='#d97706'>ライト2灯（斜め上から、左右の奥）</text>
+<rect x='495' y='80' width='175' height='130' fill='#f3f4f6' stroke='#1f2937' stroke-width='1.5'/>
+<text x='582.5' y='140' font-size='12' fill='#1f2937' text-anchor='middle' font-weight='700'>ノートPC</text>
+<text x='582.5' y='160' font-size='9' fill='#6b7280' text-anchor='middle'>USBは両腕とカメラの3本</text>
+<rect x='545' y='220' width='150' height='150' fill='#ecfdf5' stroke='#1f2937' stroke-width='1.5'/>
+<rect x='590' y='310' width='60' height='60' fill='#d1d5db' stroke='#1f2937' stroke-width='1.5'/>
+<text x='620' y='245' font-size='12' fill='#1f2937' text-anchor='middle' font-weight='700'>リーダー 30×30cm</text>
+<text x='620' y='265' font-size='9' fill='#6b7280' text-anchor='middle'>利き手側・手前の縁にクランプ</text>
+<ellipse cx='620' cy='410' rx='50' ry='25' fill='none' stroke='#6b7280' stroke-dasharray='4 3'/>
+<text x='620' y='414' font-size='11' fill='#6b7280' text-anchor='middle'>自分（記録のとき）</text>
+<circle cx='130' cy='420' r='9' fill='none' stroke='#dc2626' stroke-width='2'/><circle cx='130' cy='420' r='3' fill='#dc2626'/>
+<line x1='137' y1='414' x2='267' y2='239' stroke='#dc2626' stroke-width='1' stroke-dasharray='3 3'/>
+<text x='144' y='424' font-size='11' fill='#dc2626'>スマホ三脚（斜め前45°、撮影のとき）</text>
+</svg>

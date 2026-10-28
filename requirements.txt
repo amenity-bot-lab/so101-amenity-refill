@@ -1,0 +1,9 @@
+# lerobot 本体（lerobot-record / lerobot-replay など）は別途インストール済みであること:
+#   python -m pip install "lerobot[core-scripts,feetech]==0.6.1"   # core-scripts = 記録(dataset)・キー操作(pynput)・表示(rerun)
+google-genai>=1.0
+opencv-python>=4.9,<4.14   # lerobot の headless 版と同じ系列にそろえる（GUI 表示用）
+pillow>=10.0
+numpy>=1.26
+pydantic>=2.5
+python-dotenv>=1.0
+requests>=2.31
